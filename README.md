@@ -2,4 +2,5 @@ A credit risk dataset was downloaded from Kaggle and then the dataset was cleane
 Another density-based machine learning model DBScan was used to compare with k-means clustering considering silhouette score. 
 
 ![Screenshot_20221222_080722](https://user-images.githubusercontent.com/61625268/209208766-992b1f30-17b2-4068-8084-5d42bc267551.png)
+
 Accuracy measure plot for 3 different scenario. 
